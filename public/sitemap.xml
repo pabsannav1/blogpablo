@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/posts/primer-post-test/</loc>
+    <loc>//localhost:1313/posts/posts/primer-post-test/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>/tags/hello/</loc>
+    <loc>//localhost:1313/tags/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>/categories/hello/</loc>
+    <loc>//localhost:1313/categories/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>/posts/markdown-cheat-sheet/</loc>
+    <loc>//localhost:1313/posts/markdown-cheat-sheet/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>/tags/whatsapp/</loc>
+    <loc>//localhost:1313/tags/whatsapp/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>/categories/css/</loc>
+    <loc>//localhost:1313/categories/css/</loc>
   </url><url>
-    <loc>/categories/javascript/</loc>
+    <loc>//localhost:1313/categories/javascript/</loc>
   </url><url>
-    <loc>/categories/uncategories/</loc>
+    <loc>//localhost:1313/categories/uncategories/</loc>
   </url>
 </urlset>
