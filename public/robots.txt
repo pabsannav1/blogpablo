@@ -4,22 +4,14 @@ Disallow: /
 
 Disallow: /posts/
 
-Disallow: /posts/posts/primer-post-test/
+Disallow: /posts/primer-post-test/
 
 Disallow: /categories/
-
-Disallow: /tags/hello/
-
-Disallow: /categories/hello/
-
-Disallow: /posts/markdown-cheat-sheet/
-
-Disallow: /tags/
-
-Disallow: /tags/whatsapp/
 
 Disallow: /categories/css/
 
 Disallow: /categories/javascript/
+
+Disallow: /tags/
 
 Disallow: /categories/uncategories/
