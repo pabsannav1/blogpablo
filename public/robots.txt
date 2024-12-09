@@ -1,17 +1,23 @@
 User-agent: *
 
+Disallow: /tags/aapp/
+
 Disallow: /
 
 Disallow: /posts/
 
 Disallow: /posts/primer-post-test/
 
+Disallow: /posts/segundo-post-sobre-aapp/
+
+Disallow: /posts/tercer-post-test/
+
+Disallow: /tags/
+
 Disallow: /categories/
 
 Disallow: /categories/css/
 
 Disallow: /categories/javascript/
-
-Disallow: /tags/
 
 Disallow: /categories/uncategories/

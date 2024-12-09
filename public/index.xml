@@ -16,5 +16,19 @@
       <guid>/posts/primer-post-test/</guid>
       <description>Este es un primer ejemplo&#xA;![[images.jpeg]]</description>
     </item>
+    <item>
+      <title>Primer post Test</title>
+      <link>/posts/segundo-post-sobre-aapp/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/segundo-post-sobre-aapp/</guid>
+      <description>Este es un primer ejemplo aqui vamos a hablar sobre la importancia de la escritura para las personas</description>
+    </item>
+    <item>
+      <title>Primer post Test</title>
+      <link>/posts/tercer-post-test/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/tercer-post-test/</guid>
+      <description>la administración y el cps</description>
+    </item>
   </channel>
 </rss>
