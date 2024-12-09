@@ -10,9 +10,9 @@ Disallow: /posts/primer-post-test/
 
 Disallow: /posts/segundo-post-sobre-aapp/
 
-Disallow: /posts/tercer-post-test/
-
 Disallow: /tags/
+
+Disallow: /posts/tercer-post-test/
 
 Disallow: /categories/
 
