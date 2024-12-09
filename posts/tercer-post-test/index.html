@@ -166,34 +166,35 @@
   </footer>
 </article>
 
-
 <article class="post">
-  <header class="post-header">
-    <div class="post-meta text-xs">
-      July 12, 2024
-    </div>
-    
-    <h1 class="post-title text-xl">
-      Primer post Test
-    </h1>
-  </header>
+  <div class="post-container">
+    <header class="post-header">
+      <div class="post-meta text-xs">
+        July 12, 2024
+      </div>
+      
+      <h1 class="post-title text-xl">
+        Primer post Test
+      </h1>
+    </header>
 
-  
     
-  
-  
-  <section class="post-content">
-    <p>la administración y el cps</p>
-
-  </section>
-  
-  
+      
     
-  
+    
+    <section class="post-content">
+      <p>la administración y el cps</p>
 
+    </section>
+    
+    
     
   
 
+    
+  
+
+  </div>
 </article>
 
 <style>
@@ -202,12 +203,19 @@
     padding: 1.5rem;
   }
   
+  .post-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
   .post-meta {
-    margin-bottom: 1rem;   
+    margin-bottom: 1rem;
+    text-align: center;
   }
   
   .post-title {
-    margin-bottom: 1rem;   
+    margin-bottom: 1rem;
+    text-align: center;
   }
   
   .post-content {

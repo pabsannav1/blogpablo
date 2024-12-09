@@ -159,35 +159,36 @@ aqui vamos a hablar sobre la importancia de la escritura para las personas</p>
   </footer>
 </article>
 
-
 <article class="post">
-  <header class="post-header">
-    <div class="post-meta text-xs">
-      July 12, 2024
-    </div>
-    
-    <h1 class="post-title text-xl">
-      Primer post Test
-    </h1>
-  </header>
+  <div class="post-container">
+    <header class="post-header">
+      <div class="post-meta text-xs">
+        July 12, 2024
+      </div>
+      
+      <h1 class="post-title text-xl">
+        Primer post Test
+      </h1>
+    </header>
 
-  
     
-  
-  
-  <section class="post-content">
-    <p>Este es un primer ejemplo
+      
+    
+    
+    <section class="post-content">
+      <p>Este es un primer ejemplo
 aqui vamos a hablar sobre la importancia de la escritura para las personas</p>
 
-  </section>
-  
-  
+    </section>
+    
+    
     
   
 
     
   
 
+  </div>
 </article>
 
 <style>
@@ -196,12 +197,19 @@ aqui vamos a hablar sobre la importancia de la escritura para las personas</p>
     padding: 1.5rem;
   }
   
+  .post-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
   .post-meta {
-    margin-bottom: 1rem;   
+    margin-bottom: 1rem;
+    text-align: center;
   }
   
   .post-title {
-    margin-bottom: 1rem;   
+    margin-bottom: 1rem;
+    text-align: center;
   }
   
   .post-content {
