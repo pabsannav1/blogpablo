@@ -6,13 +6,13 @@
 
 [[main]]
     identifier = "about"
-    name = "About me"
-    url = "/about"
+    name = "Sobre mí"
+    url = "https://www.pablosancheznavarro.com"
     weight = 2
 
 [[main]]
     identifier = "categories"
-    name = "Categories"
+    name = "Categorías"
     url = "/categories"
     weight = 3
 
@@ -22,28 +22,22 @@
     url = "/tags"
     weight = 4
 
-[[main]]
-    identifier = "donate"
-    name = "Donate"
-    url = "https://ko-fi.com/nixentric"
-    weight = 5
-    
 # Social Media Configuration
 
 [[social]]
     identifier = "twitter"
-    name = "Twitter"
-    url = "#"
+    name = "X"
+    url = "https://x.com/PabloSanchezSP"
     weight = 1
 
-[[social]]
-    identifier = "instagram"
-    name = "Instagram"
-    url = "#"
-    weight = 2
+# [[social]]
+#    identifier = "instagram"
+#    name = "Instagram"
+#    url = "#"
+#    weight = 2
 
-[[social]]
-    identifier = "github"
-    name = "GitHub"
-    url = "#"
-    weight = 3
+### [[social]]
+#    identifier = "github"
+#    name = "GitHub"
+#    url = "#"
+#    weight = 3

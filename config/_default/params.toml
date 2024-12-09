@@ -5,10 +5,10 @@ isSinglePage = true
 description = "Hello"
 
 # Header Configuration
-avatar = "img/profile-picture.jpg"
+avatar = "img/foto-perfil.jpg"
 
 #favicon
-favicon = "icons/favicon.ico"
+favicon = "icons/favicon copy.ico"
 
 # disqus is a comment system. see https://disqus.com
 disqusShortname = ""
@@ -17,7 +17,7 @@ disqusShortname = ""
 enableEmoji = true
 
 # giscus is a comment system based on GitHub Discussions. see https://giscus.app
-[giscus]       
+[giscus]
     enable = false
     repo = ""
     repoId = ""
