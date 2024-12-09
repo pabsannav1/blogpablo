@@ -7,14 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aapp</title>
-      <link>/tags/aapp/</link>
-      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/aapp/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
