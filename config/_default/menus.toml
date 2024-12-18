@@ -4,11 +4,11 @@
     url = "/"
     weight = 1
 
-[[main]]
-    identifier = "about"
-    name = "Sobre mí"
-    url = "https://www.pablosancheznavarro.com"
-    weight = 2
+# [[main]]
+#    identifier = "about"
+#    name = "Sobre mí"
+#    url = "https://www.pablosancheznavarro.com"
+#    weight = 2
 
 #[[main]]
 #    identifier = "categories"
